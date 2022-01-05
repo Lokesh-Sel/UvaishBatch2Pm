@@ -6,5 +6,10 @@ public class Sample {
 
 		int a = 100;
 		System.out.println(a);
+		System.out.println(a+100);
+		System.out.println(a+200);
 	}
 }
+
+
+
