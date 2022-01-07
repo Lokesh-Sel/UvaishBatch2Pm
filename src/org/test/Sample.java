@@ -2,12 +2,12 @@ package org.test;
 
 public class Sample {
 
-	private void tc1() {
-		System.out.println("B method");
+	private void m3() {
+		System.out.println("C method");
 	}
 
-	private void m1() {
-		System.out.println("A method..");
+	private void tc1() {
+		System.out.println("B method");
 	}
 
 	public static void main(String[] args) {
